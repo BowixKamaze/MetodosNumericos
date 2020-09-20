@@ -1,3 +1,5 @@
+# BowixKamaze
+
 rm(list=ls())
 graphics.off()
 f<-function(x){
