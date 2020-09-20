@@ -1,2 +1,0 @@
-# Metodos Numericos
-Numerical methods 
