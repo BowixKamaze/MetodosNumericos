@@ -1,4 +1,4 @@
-# MetodosNumericos
+# Métodos Numéricos
 Numerical methods 
 
 These Scripts are useful to search for roots or if we want to approximate a numerical value, we can use some numerical approximations methods. If we want to know
